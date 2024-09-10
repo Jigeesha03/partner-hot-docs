@@ -66,7 +66,7 @@
 1. Click "Add item," and enter the following details.
    ```
    Connection name: HOT day 2024
-   Bot token: xoxb--
+   Bot token: xoxb-6050153798579-6035743974439-U9nUq1crfS5DKONk4KOQ9do6
    ```
 1. Hit "Save changes" at the bottom.
 1. Head back to your previous browser tab with the Workflow in, select the dropdown again and your new connection should appear.
